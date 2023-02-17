@@ -1,4 +1,4 @@
-# Scope Review Rubric Drew
+# Scope Review Rubric 
 
 > Note: There are exceptions to almost every rule here. If you have a good reason, it's possible that one of these checkboxes may not apply to you, but they apply to most, so they are good guideposts.
 
